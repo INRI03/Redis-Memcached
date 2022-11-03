@@ -27,4 +27,4 @@
 *Запишите в redis несколько ключей с любыми именами и значениями.*
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
-![redis_keys](https://github.com/INRI03/Redis-Memcached/blob/main/04.png)
+![redis_keys](https://github.com/INRI03/Redis-Memcached/blob/main/04.png?raw=true)
