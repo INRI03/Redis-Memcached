@@ -12,18 +12,18 @@
 *Установите и запустите memcached.*
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
-![memcached](C:\Users\inri1\Desktop\02.png)
+![memcached](https://github.com/INRI03/Redis-Memcached/blob/main/02.png)
 
 ---
 ### Задание 3. Удаление по TTL в Memcached.
 *Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.*
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
-![memcached_keys](C:\Users\inri1\Desktop\03.png)
+![memcached_keys](https://github.com/INRI03/Redis-Memcached/blob/main/03.png)
 
 ---
 ### Задание 4. Запись данных в Redis.
 *Запишите в redis несколько ключей с любыми именами и значениями.*
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
-![redis_keys](C:\Users\inri1\Desktop\04.png)
+![redis_keys](https://github.com/INRI03/Redis-Memcached/blob/main/04.png)
